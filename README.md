@@ -2,7 +2,7 @@
 <pre>
 PARK4139.name  ="Jung Hoon Park" 
 PARK4139.sex  = "male"
-PARK4139.birthday  = "1994.4.5"  # i born at arbor day!
+PARK4139.birthday  = "1994.04.05"  # i born at arbor day!
 </pre>
 ## my tech stacks
 <pre>
