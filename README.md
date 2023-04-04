@@ -1,4 +1,5 @@
-### summary me version code
+### summarized me version code
+<pre>
 PARK4139.name  ="Jung Hoon Park" 
 PARK4139.sex  = "male"
 PARK4139.birthday  = "1994.4.5"  # i born at arbor day!
@@ -61,8 +62,9 @@ PARK4139.about_me='''
 While(PARK4139.die()){
     PARK4139.study(something); # but, PARK4139 will be happy. 
 }
+</pre>
 
-
-### summary me version ko
-  
-### summary me version eng
+### summarized me version ko
+To Be continue  
+### summarized me version eng
+To Be continue  
