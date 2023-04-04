@@ -3,6 +3,8 @@
 PARK4139.name  ="Jung Hoon Park" 
 PARK4139.sex  = "male"
 PARK4139.birthday  = "1994.4.5"  # i born at arbor day!
+</pre>
+<pre>
 PARK4139.tech_stacks_using  = {
     "OS": ["windows 10 pro","Rasberry pi OS","linux","ubuntu"], 
     "script": ["batch script","shell script"], 
@@ -26,6 +28,8 @@ PARK4139.something_interested  = {
     "docker",
     "spring",
 }
+</pre>
+<pre>
 PARK4139.why_that_i_choose_programmer  = '''
     It wasn't enjoyable.
     I had been a mechanic that fix 비행조종계통 of aircrafts [F-16C/D, F-15K, C-130] in korean airforce for about 4 years. 
@@ -52,7 +56,8 @@ PARK4139.why_that_i_choose_programmer  = '''
     But now that I became a developer, it's different. It's so rewarding and fun when a problem is solved.
     I want to keep this job!, I think finally found this job suitable for me.
 '''
-
+</pre>
+<pre>
 PARK4139.about_me='''
     I can use English a little. I know it's not enough, but I'm still trying to use it
     I try to record everything. Because we know that humans are oblivious animals, including me.
@@ -65,6 +70,10 @@ While(PARK4139.die()){
 </pre>
 
 ### summarized me version ko
+<pre>
 To Be continue  
+</pre>
 ### summarized me version eng
-To Be continue  
+<pre>
+To Be continue
+</pre>
