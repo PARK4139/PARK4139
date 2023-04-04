@@ -1,4 +1,4 @@
-## my basic info
+## PARK4139 info
 <pre>
 PARK4139.name  ="Jung Hoon Park" 
 PARK4139.sex  = "male"
