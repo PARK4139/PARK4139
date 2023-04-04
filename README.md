@@ -1,4 +1,3 @@
-# summarized me version code
 ## my basic info
 <pre>
 PARK4139.name  ="Jung Hoon Park" 
