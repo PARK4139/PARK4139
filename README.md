@@ -1,9 +1,11 @@
 ### summarized me version code
+## my basic info
 <pre>
 PARK4139.name  ="Jung Hoon Park" 
 PARK4139.sex  = "male"
 PARK4139.birthday  = "1994.4.5"  # i born at arbor day!
 </pre>
+## my tech stacks
 <pre>
 PARK4139.tech_stacks_using  = {
     "OS": ["windows 10 pro","Rasberry pi OS","linux","ubuntu"], 
@@ -29,6 +31,7 @@ PARK4139.something_interested  = {
     "spring",
 }
 </pre>
+## my motivation story
 <pre>
 PARK4139.why_that_i_choose_programmer  = '''
     It wasn't enjoyable.
@@ -57,6 +60,7 @@ PARK4139.why_that_i_choose_programmer  = '''
     I want to keep this job!, I think finally found this job suitable for me.
 '''
 </pre>
+## my Too Much Infos 
 <pre>
 PARK4139.about_me='''
     I can use English a little. I know it's not enough, but I'm still trying to use it
@@ -65,7 +69,7 @@ PARK4139.about_me='''
     I always search Happiness for me.
 '''
 While(PARK4139.die()){
-    PARK4139.study(something); # but, PARK4139 will be happy. 
+    PARK4139.study(something); 
 }
 </pre>
 
