@@ -16,7 +16,7 @@ PARK4139.tech_stacks_using  = {
     "DB client programs": ["DBeaver", "MS server client program", "sqlplus"],
     "program configuration management programs": ["git", "svn"],
     "virtual environment": ["docker", "pyvenv"],
-    "IDE": ["intelliJ", "pycharm", "visual studio code","notepad++"],
+    "IDE": ["intelliJ", "pycharm", "visual studio code","notepad++", ""],
     "office programs": ["VBA", "word", "powerpoint", "excell"], 
     "video editting programs": ["losslesscut"],
     "game engine": ["unreal engine 5.2"]
