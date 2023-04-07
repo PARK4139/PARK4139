@@ -1,10 +1,10 @@
-## PARK4139 info
+## PARK4139 INFO
 <pre>
 PARK4139.name  ="Jung Hoon Park" 
 PARK4139.sex  = "male"
 PARK4139.birthday  = "1994.04.05"  
 </pre>
-## my tech stacks
+## MY TECH STACKS
 <pre>
 PARK4139.tech_stacks_using  = {
     "OS": ["windows 10 pro","Rasberry pi OS","linux","ubuntu"], 
@@ -30,7 +30,7 @@ PARK4139.something_interested  = {
     "spring",
 }
 </pre>
-## Too Much Infos about me
+## Much Infos about me
 <pre>
 PARK4139.about_me='''
     I can use English a little. I know it's not enough, but I'm still trying to use it
