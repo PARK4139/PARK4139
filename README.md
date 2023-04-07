@@ -56,7 +56,3 @@ To Be continue
 <pre>
 To Be continue
 </pre>
-## summarized me version eng
-<pre>
-To Be continue
-</pre>
