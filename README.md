@@ -54,9 +54,7 @@ To Be continue
 </pre>
 ## my motivation story
 <pre>
-PARK4139.why_that_i_choose_programmer  = '''
-
-'''
+To Be continue
 </pre>
 ## summarized me version eng
 <pre>
