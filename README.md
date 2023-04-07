@@ -30,13 +30,7 @@ PARK4139.something_interested  = {
     "spring",
 }
 </pre>
-## my motivation story
-<pre>
-PARK4139.why_that_i_choose_programmer  = '''
-
-'''
-</pre>
-## my Too Much Infos 
+## Too Much Infos about me
 <pre>
 PARK4139.about_me='''
     I can use English a little. I know it's not enough, but I'm still trying to use it
@@ -126,6 +120,12 @@ Python3를 활용하여 구글에서 "동안구 날씨", "동안구 미세먼지
 
 제 이력서를 읽어주셔서 정말로 감사합니다. 오늘도 좋은 하루 되시길 바라면서 
 연이 닿기를 바라며 연락기다리겠습니다. 감사합니다.
+</pre>
+## my motivation story
+<pre>
+PARK4139.why_that_i_choose_programmer  = '''
+
+'''
 </pre>
 ## summarized me version eng
 <pre>
