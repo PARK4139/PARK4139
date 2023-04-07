@@ -48,6 +48,10 @@ While(PARK4139.die()){
 <pre>
 To Be continue
 </pre>
+## 자기소개서
+<pre>
+To Be continue
+</pre>
 ## my motivation story
 <pre>
 PARK4139.why_that_i_choose_programmer  = '''
