@@ -23,8 +23,8 @@ PARK4139.tech_stacks_using  = {
     "game engine"                               : ["unreal engine 5.2"]
 }
 PARK4139.something_interested  = {
-    "RPA[robotic process]",
-    "AI[artificial intelligence]",
+    "RPA",                                      # robotic process
+    "AI",                                       # artificial intelligence
     "chatGPT",                                  # get solution via AI
     "webAI",                                    # painting via AI
     "docker",
