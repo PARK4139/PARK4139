@@ -19,6 +19,7 @@ PARK4139.tech_stacks_using  = {
     "IDE": ["intelliJ", "pycharm", "visual studio code","notepad++", ""],
     "office programs": ["VBA", "word", "powerpoint", "excell"], 
     "video editting programs": ["losslesscut"],
+    "build tool": ["maven","gradle"],
     "game engine": ["unreal engine 5.2"]
 }
 PARK4139.something_interested  = {
