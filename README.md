@@ -23,7 +23,7 @@ PARK4139.tech_stacks_using  = {
     "game engine"                               : ["unreal engine 5.2"]
 }
 PARK4139.something_interested  = {
-    "RPA",                                      # robotic process
+    "RPA",                                      # robotic process automation
     "AI",                                       # artificial intelligence
     "chatGPT",                                  # get solution via AI
     "webAI",                                    # painting via AI
@@ -43,17 +43,4 @@ PARK4139.about_me='''
 While(PARK4139.die()){
     PARK4139.study(something); 
 }
-</pre>
-
-## 이력서
-<pre>
-To Be continue
-</pre>
-## 자기소개서
-<pre>
-To Be continue
-</pre>
-## my motivation story
-<pre>
-To Be continue
 </pre>
