@@ -1,6 +1,6 @@
 ## PARK4139 INFO
 <pre>
-     PARK4139.name                               ="Jung Hoon Park" 
+     PARK4139.name                               = "Jung Hoon Park" 
      PARK4139.birthday                           = "1994.04.05"
      PARK4139.sex                                = "male"  
 </pre>
