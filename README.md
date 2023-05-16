@@ -7,7 +7,7 @@
 ## MY TECH STACKS
 <pre>
 PARK4139.tech_stacks_using  = {
-    "OS"                                        : ["windows 10 pro","Rasberry pi OS","linux","ubuntu"], 
+    "OS"                                        : ["windows 10 pro","Rasberry pi OS","linux","ubuntu","android"], 
     "scripting language"                        : ["python3.11.1", "batch script","shell script"], 
     "compile language"                          : ["java8", "c"], 
     "server side"                               : ["asp", "jsp", "thymeleaf"], 
@@ -19,8 +19,9 @@ PARK4139.tech_stacks_using  = {
     "IDE"                                       : ["intelliJ", "pycharm", "visual studio code","notepad++", ""],
     "office programs"                           : ["VBA", "word", "powerpoint", "excell"], 
     "video editting programs"                   : ["losslesscut"],
+    "framework"                                 : ["Flutter","Spring"],
     "build tool"                                : ["maven","gradle"],
-    "game engine"                               : ["unreal engine 5.2"]
+    "game engine"                               : ["unreal engine 5.2"]        
 }
 PARK4139.something_interested  = {
     "RPA",                                      # robotic process automation
