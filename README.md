@@ -40,8 +40,5 @@ PARK4139.about_me='''
     I love dogs!, I live with Yellow Lab[Labrador Retriever]. When things aren't going well, I go for a walk, dogs make me laugh.
     I always search Happiness for me.
     I love watching movie. especially Avartar2 is that i watch recently.
-'''
-While(PARK4139.die()){
-    PARK4139.study(something); 
-}
+''' 
 </pre>
