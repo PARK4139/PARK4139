@@ -35,10 +35,9 @@ PARK4139.something_interested  = {
 ## Much Infos about me
 <pre>
 PARK4139.about_me='''
-    I can use English a little. I know it's not enough, but I'm still trying to use it
-    I try to record everything. Because we know that humans are oblivious animals, including me.
-    I love dogs!, I live with Yellow Lab[Labrador Retriever]. When things aren't going well, I go for a walk, dogs make me laugh.
-    I always search Happiness for me.
-    I love watching movie. especially Avartar2 is that i watch recently.
+     I always search Happiness for me.
+    I know it's not enough, but I'm still trying to work it
+    I try to record everything. 
+    I love dogs!, I live with Yellow Lab. When things aren't going well, I go for a walk, dogs make me laugh.
 ''' 
 </pre>
