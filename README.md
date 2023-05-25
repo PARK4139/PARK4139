@@ -9,7 +9,7 @@
 PARK4139.tech_stacks_using  = {
     "OS"                                        : ["windows 10 pro","Rasberry pi OS","linux","ubuntu","android"], 
     "scripting language"                        : ["python3.11.1", "batch script","shell script"], 
-    "compile language"                          : ["java8", "c"], 
+    "compile language"                          : ["java8", "c", "dart"], 
     "server side"                               : ["asp", "jsp", "thymeleaf"], 
     "client side"                               : ["html5", "javascript", "CSS"],
     "DB"                                        : ["oracle DB", "MS server", "maria db", "h2"],
