@@ -29,7 +29,7 @@ PARK4139.something_interested  = {
     "chatGPT",                                  # get solution via AI
     "webAI",                                    # painting via AI
     "docker",
-    "spring",
+    //"spring",
 }
 </pre>
 ## Much Infos about me
