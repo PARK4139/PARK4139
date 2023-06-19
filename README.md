@@ -32,12 +32,3 @@ PARK4139.something_interested  = {
     //"spring",
 }
 </pre>
-## Much Infos about me
-<pre>
-PARK4139.about_me='''
-     I always search Happiness for me.
-    I know it's not enough, but I'm still trying to work it
-    I try to record everything. 
-    I love dogs!, I live with Yellow Lab. When things aren't going well, I go for a walk, dogs make me laugh.
-''' 
-</pre>
