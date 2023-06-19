@@ -4,7 +4,7 @@
      PARK4139.birthday                           = "1994.04.05"
      PARK4139.sex                                = "male"  
 </pre>
-## MY TECH STACKS
+## MY STACKS
 <pre>
 PARK4139.tech_stacks_using  = {
     "OS"                                        : ["windows 10 pro","Rasberry pi OS","ubuntu","android"], 
