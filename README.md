@@ -1,4 +1,4 @@
-## PARK4139 INFO
+## MY INFO
 <pre>
      PARK4139.name                               = "Jung Hoon Park" 
      PARK4139.birthday                           = "1994.04.05"
