@@ -17,10 +17,10 @@ PARK4139.tech_stacks_using  = {
     "DB client programs"                        : ["DBeaver", "MS server client program", "sqlplus"],
     "program configuration management programs" : ["git", "svn"],
     "virtual environment"                       : ["docker", "pyvenv"],
-    "IDE"                                       : ["intelliJ", "pycharm", "visual studio code","notepad++", ""],
+    "IDE"                                       : ["intelliJ", "pycharm", "visual studio code","notepad++", "android studio"],
     "office programs"                           : ["VBA", "word", "powerpoint", "excell"], 
     "video editting programs"                   : ["losslesscut"],
-    "framework"                                 : ["Flutter","Spring"],
+    "framework"                                 : ["Flutter","Spring","flask",fastAPI],
     "build tool"                                : ["maven","gradle"],
     "game engine"                               : ["unreal engine 5.2"]        
 }
