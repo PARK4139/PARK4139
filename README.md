@@ -8,18 +8,14 @@
 ## MY STACKS
 <pre>
 PARK4139.tech_stacks_using  = {
-    "OS"                                        : ["windows 10 pro","Rasberry pi OS","ubuntu","android"], 
-    "scripting language"                        : ["python3.12", "batch script","shell script"], 
-    "compile language"                          : ["java8", "c", "dart"], 
-    "server side"                               : ["asp", "jsp", "thymeleaf"], 
+    "OS"                                        : ["windows 10 pro","Rasberry pi OS","ubuntu"], 
+    "language"                                  : ["python3.12", "java", "batch script", "shell script", "dart", "jsp"], 
     "client side"                               : ["html5", "javascript", "CSS"],
-    "DB"                                        : ["oracle DB", "MS server", "maria db"],
-    "DB client programs"                        : ["DBeaver", "MS server client program", "sqlplus"],
+    "DB"                                        : ["oracle DB", "maria db"],
     "program configuration management programs" : ["git", "svn"],
-    "virtual environment"                       : ["docker", "pyvenv"],
-    "IDE"                                       : ["intelliJ", "pycharm", "visual studio code","notepad++", "android studio"],
+    "virtual environment"                       : ["docker", "venv"],
+    "IDE"                                       : ["intelliJ", "pycharm", "visual studio code","notepad++", "android studio", "DBeaver"],
     "office programs"                           : ["VBA", "word", "powerpoint", "excell"], 
-    "video editting programs"                   : ["losslesscut"],
-    "framework"                                 : ["Flutter","Spring","flask",fastAPI],        
+    "framework"                                 : ["Spring","flask","Flutter","fastAPI"],        
 } 
 </pre>
