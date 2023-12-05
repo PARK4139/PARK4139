@@ -21,13 +21,5 @@ PARK4139.tech_stacks_using  = {
     "office programs"                           : ["VBA", "word", "powerpoint", "excell"], 
     "video editting programs"                   : ["losslesscut"],
     "framework"                                 : ["Flutter","Spring","flask",fastAPI],        
-}
-PARK4139.something_interested  = {
-    "RPA",                                      # robotic process automation
-    "AI",                                       # artificial intelligence
-    "chatGPT",                                  # get solution via AI
-    "webAI",                                    # painting via AI
-    "docker",
-    //"spring",
-}
+} 
 </pre>
