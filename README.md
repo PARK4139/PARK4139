@@ -14,8 +14,7 @@ PARK4139.tech_stacks_using  = {
     "DB"                                        : ["oracle DB", "maria db"],
     "program configuration management programs" : ["git", "svn"],
     "virtual environment"                       : ["docker", "venv"],
-    "IDE"                                       : ["intelliJ", "pycharm", "visual studio code","notepad++", "android studio", "DBeaver"],
-    "office programs"                           : ["VBA", "word", "powerpoint", "excell"], 
-    "framework"                                 : ["Spring","flask","Flutter","fastAPI"],        
+    "IDE"                                       : ["intelliJ", "pycharm", "visual studio code","notepad++", "android studio", "DBeaver"], 
+    "framework"                                 : ["Spring","Flutter","fastAPI"],        
 } 
 </pre>
