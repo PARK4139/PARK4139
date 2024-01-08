@@ -5,7 +5,7 @@
      PARK4139.sex                                = "male"  
      PARK4139.hobby                              = "walking with my dog" , "coding with python"
 </pre>
-## MY STACKS
+## STACKS I TOUCHED
 <pre>
 PARK4139.tech_stacks_using  = {
     "OS"                                        : ["windows 10 pro","Rasberry pi OS","ubuntu"], 
