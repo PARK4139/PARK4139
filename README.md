@@ -5,7 +5,7 @@
      PARK4139.sex                                = "male"  
      PARK4139.hobby                              = "walking with my dog" , "coding!!!!!!!"
 </pre>
-## STACKS I TOUCHED
+## I TOUCHED
 <pre>
 PARK4139.tech_stacks_using  = {
     "OS"                                        : ["windows 10 pro","Rasberry pi OS","ubuntu"], 
@@ -17,3 +17,4 @@ PARK4139.tech_stacks_using  = {
     "framework"                                 : ["Spring", "fastAPI", "Flutter"],        
 } 
 </pre>
+[//]: # (로고이미지 적용예정)
