@@ -4,7 +4,7 @@
      PARK4139.birthday   = "1994.04.05"
      PARK4139.sex        = "male"  
      PARK4139.hobby      = ["walking with my dog", "make something "]
-     I TOUCHED = [
+     I LIKE = [
          "windows 10 pro","Rasberry pi OS","ubuntu", 
          "python", "java", "batch script", "shell script", "jsp", "dart",
          "oracle DB", "maria db",
